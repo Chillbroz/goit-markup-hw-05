@@ -494,7 +494,6 @@ box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47,
   border-radius: 4px;
   border: 1px solid #ffff;
   outline: transparent;
-  margin-right: 24px;
   font-size: 12px;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -537,7 +536,6 @@ box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47,
 
 .sub-icon {
   fill: #fff;
-  margin-left: 16px;
 }
 
 .backdrop {
@@ -673,7 +671,6 @@ box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47,
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  color: rgba(46, 47, 66, 0.40);
   background-color: transparent;
   border-radius: 4px;
   border: 1px solid rgba(46, 47, 66, 0.40);
